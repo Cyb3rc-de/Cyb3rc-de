@@ -39,7 +39,7 @@ My learning approach is centered on consistency, practice, and small but continu
 * ✅ Git & GitHub basics
 * ✅ HTML & CSS fundamentals
 * 🔄 Responsive design mastery (in progress)
-* ⏳ JavaScript fundamentals/basics
+* 🔄 JavaScript fundamentals/basics (in progress)
 * ⏳ Git & GitHub workflow improvement
 * ⏳ AI-assisted workflow
 * ⏳ Backend development fundamentals
