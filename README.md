@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Emmanuel 👋
 
-<!--
-**Cyb3rc-de/Cyb3rc-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer from Nigeria
 
-Here are some ideas to get you started:
+I enjoy building responsive and user-friendly web experiences. I am currently focused on strengthening my fundamentals in HTML, CSS, and JavaScript while gradually building practical projects that help me become a well-rounded developer and solve real-world problems with my improved technical skills. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My learning approach is centered on consistency, practice, and small but continuous improvement. 
+
+---
+
+## 🚀 About Me
+
+* 🌱 Currently learning web development
+* 🎓 Currently enrolled at GOMYCODE Abuja Hackerspace
+* 💻 Interested in tech as a whole with particular emphasis on AI and software development
+* ⚡ Focused on steady progress, consistency, and practical learning
+* 🎯 Goal-driven and actively building real understanding through hands-on practice
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* HTML5
+* CSS3 / SCSS
+* JavaScript
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 🛣️ Learning Roadmap
+
+* ✅ Git & GitHub basics
+* ✅ HTML & CSS fundamentals
+* 🔄 Responsive design mastery (in progress)
+* ⏳ JavaScript fundamentals/basics
+* ⏳ Git & GitHub workflow improvement
+* ⏳ AI-assisted workflow
+* ⏳ Backend development fundamentals
+* ⏳ Full-Stack development
+* ⏳ Continuous learning
+
+---
+
+## 📈 Current Goals
+
+* Strengthen my HTML, CSS, and JavaScript fundamentals skills through practice and projects 
+* Build real-world responsive projects and web apps 
+* Improve consistency and problem-solving skills
+* Continue learning modern development tools and workflows 
+* Gain real-world experience through collaboration and learning opportunities
+* Grow into a confident and employable web developer
+
+---
+
+## 💼 Opportunities
+
+Currently open to internship, entry-level, and collaborative opportunities where I can continue learning, contribute, and gain real-world experience in web development.
+
+---
+
+⭐ “Small progress consistently leads to big results.”
