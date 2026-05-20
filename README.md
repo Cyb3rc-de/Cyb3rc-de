@@ -65,4 +65,10 @@ Currently open to internship, entry-level, and collaborative opportunities where
 
 ---
 
+## 📫 Contact
+
+- 📫 Email: cyb3rc.de@gmail.com
+
+---
+
 ⭐ “Small progress consistently leads to big results.”
