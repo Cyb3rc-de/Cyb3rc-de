@@ -41,7 +41,7 @@ My growth as a developer is driven by a deep commitment to consistency, hands-on
 
 - 🏃‍♂️ My system runs a background process called `"having a life"`, though the documentation on that is still pretty vague.
 - 🎮 I switch over to high-performance gaming mode, usually deploying for hot drops in PUBG or hitting the pitch in eFootball.
-- 🎧 I stream media assets in high-definition, balancing out my logic blocks with music, movies or documentries().
+- 🎧 I stream media assets in high-definition, balancing out my logic blocks with music, movies or documentries(mostly to find out How stuff work🙂).
 - 🛌 I eventually enter deep sleep mode to clear my cache, fix memory leaks, and restart my system for the next day.
 
 ---
